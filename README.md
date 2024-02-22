@@ -25,18 +25,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Even thought the app is already connected to a graphql endpoint, the trainee can find here all required information about `queries`, `mutations` and Graphql types.
 
-- https://www.vendure.io/docs/graphql-api/shop/
+Demos : 
+UI-UX - 
+![image](https://github.com/maxrikotero/challenge_santex/assets/13091618/ae257f73-8f91-4955-bf1a-aec458f4ef46)
 
-## Scripts
+The goal was trying to simulate the data grid of MUI matching the column index and the data property, render element function to pass react node component and get the row property to be able to use the data row.
+Interaction with the localstorage use made into the custom hook.
 
-### `yarn start`
+Unit testing I mocked the responses (query-mutation) simulation the main stuff such as skeleton loading, click fired, render data and increse the sub total on the header.
 
-Runs the app in the development mode.
+TESTING - 
+![image](https://github.com/maxrikotero/challenge_santex/assets/13091618/67b1af5b-f51d-42c6-9057-5fd49d647bea)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
