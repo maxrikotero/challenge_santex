@@ -37,5 +37,10 @@ Unit testing I mocked the responses (query-mutation) simulation the main stuff s
 TESTING - 
 ![image](https://github.com/maxrikotero/challenge_santex/assets/13091618/67b1af5b-f51d-42c6-9057-5fd49d647bea)
 
+Documentation : 
+
+![image](https://github.com/maxrikotero/challenge_santex/assets/13091618/30514acf-c1d0-4385-8c16-a9e0106cd84c)
+
+
 
 
